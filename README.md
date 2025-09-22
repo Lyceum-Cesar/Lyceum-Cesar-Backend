@@ -47,3 +47,7 @@ Este projeto tem como objetivo desenvolver um sistema simples de gestão acadêm
 
 
   <img width="2852" height="1420" alt="image" src="https://github.com/user-attachments/assets/2592853f-523b-426e-ac59-a5bdaffe7aa0" />
+
+
+### Sketches e storyboards:
+https://www.figma.com/proto/3AnXCnhB29dgAKFiQjX9ou/Sem-t%C3%ADtulo?node-id=1-2&t=yo2nyvPTAexfRccv-1
