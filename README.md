@@ -46,7 +46,8 @@ Este projeto tem como objetivo desenvolver um sistema simples de gestão acadêm
     -   Como administrador, ser permitido para editar, inativar e criar turmas
 
 
-  <img width="2852" height="1420" alt="image" src="https://github.com/user-attachments/assets/2592853f-523b-426e-ac59-a5bdaffe7aa0" />
+  <img width="1440" height="715" alt="image" src="https://github.com/user-attachments/assets/e936a2a5-e547-4eea-9193-2aa809b75549" />
+
 
 
 ### Sketches e storyboards:
