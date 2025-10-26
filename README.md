@@ -57,7 +57,8 @@ https://www.figma.com/proto/3AnXCnhB29dgAKFiQjX9ou/Sem-t%C3%ADtulo?node-id=1-2&t
 
 ### Atualização Diagrama de Atividades:
 
-<img width="1907" height="1761" alt="Diagrama de Atividades" src="https://github.com/user-attachments/assets/2744fb37-4abc-4279-943a-605ec8a90ff2" />
+<img width="1759" height="1761" alt="Diagrama de Atividades ATT drawio" src="https://github.com/user-attachments/assets/e1f181ff-f206-4185-9428-bcca48b77983" />
+
 
 
 
