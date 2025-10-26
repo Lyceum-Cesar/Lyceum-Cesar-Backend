@@ -59,6 +59,14 @@ https://www.figma.com/proto/3AnXCnhB29dgAKFiQjX9ou/Sem-t%C3%ADtulo?node-id=1-2&t
 
 <img width="1759" height="1761" alt="Diagrama de Atividades ATT drawio" src="https://github.com/user-attachments/assets/e1f181ff-f206-4185-9428-bcca48b77983" />
 
+### Programação em par experimentada:
+
+<img width="1073" height="681" alt="image" src="https://github.com/user-attachments/assets/4f6110cf-b168-4b44-a5ac-ede911ea4037" />
+
+Programação feita em call e com transmissão de tela para uma colaboração mais rápida.
+
+
+
 
 
 
