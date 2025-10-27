@@ -65,6 +65,9 @@ https://www.figma.com/proto/3AnXCnhB29dgAKFiQjX9ou/Sem-t%C3%ADtulo?node-id=1-2&t
 
 Programação feita em call e com transmissão de tela para uma colaboração mais rápida.
 
+### Screencast do protótipo
+
+<a href="https://drive.google.com/file/d/1ySFg_actGlNw0oiEXMABREvVyPG7-E0e/view?usp=sharing"/>
 
 
 
