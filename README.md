@@ -67,7 +67,7 @@ Programação feita em call e com transmissão de tela para uma colaboração ma
 
 ### Screencast do protótipo
 
-<a href="https://drive.google.com/file/d/1ySFg_actGlNw0oiEXMABREvVyPG7-E0e/view?usp=sharing"/>
+<a href="https://drive.google.com/file/d/1ySFg_actGlNw0oiEXMABREvVyPG7-E0e/view?usp=sharing">Google Drive Link</a>
 
 
 
