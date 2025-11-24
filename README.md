@@ -1,4 +1,4 @@
-#  Sistema de Gestão Acadêmica
+#  Sistema de Gestão Acadêmicaa
 
 Este projeto tem como objetivo desenvolver um sistema simples de gestão acadêmica com backend em Java e frontend em JavaScript, permitindo o gerenciamento de alunos, professores, turmas e notas.
 
@@ -54,4 +54,22 @@ Este projeto tem como objetivo desenvolver um sistema simples de gestão acadêm
 https://www.figma.com/proto/3AnXCnhB29dgAKFiQjX9ou/Sem-t%C3%ADtulo?node-id=1-2&t=yo2nyvPTAexfRccv-1
 
 <img width="1640" height="1051" alt="image" src="https://github.com/user-attachments/assets/bae74204-df8b-450e-8129-c394603850c5" />
+
+### Atualização Diagrama de Atividades:
+
+<img width="1759" height="1761" alt="Diagrama de Atividades ATT drawio" src="https://github.com/user-attachments/assets/e1f181ff-f206-4185-9428-bcca48b77983" />
+
+### Programação em par experimentada:
+
+<img width="1073" height="681" alt="image" src="https://github.com/user-attachments/assets/4f6110cf-b168-4b44-a5ac-ede911ea4037" />
+
+Programação feita em call e com transmissão de tela para uma colaboração mais rápida.
+
+### Screencast do protótipo
+
+<a href="https://drive.google.com/file/d/1ySFg_actGlNw0oiEXMABREvVyPG7-E0e/view?usp=sharing">Google Drive Link</a>
+
+
+
+
 
