@@ -1,4 +1,4 @@
-#  Sistema de Gestão Acadêmica
+#  Sistema de Gestão Acadêmicaa
 
 Este projeto tem como objetivo desenvolver um sistema simples de gestão acadêmica com backend em Java e frontend em JavaScript, permitindo o gerenciamento de alunos, professores, turmas e notas.
 
